@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="0" it="0" lt="0" ct="0" ts="1562647913124" s="false" lb="HTTP请求" rc="Non HTTP response code: org.apache.http.client.ClientProtocolException" rm="Non HTTP response message: URI does not specify a valid host name: http:/" tn="线程组 1-1" dt="text" by="1111" sby="0" ng="1" na="1">
+  <java.net.URL>http:/</java.net.URL>
+</httpSample>
+
+</testResults>
